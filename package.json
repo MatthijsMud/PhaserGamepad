@@ -1,0 +1,22 @@
+{
+  "name": "phaser-gamepad",
+  "version": "0.0.0",
+  "description": "A plugin for Phaser 3 that should make it easier to handle input in a uniform way.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthijsMud/PhaserGamepad.git"
+  },
+  "keywords": [
+    "phaser"
+  ],
+  "author": "Matthijs Mud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthijsMud/PhaserGamepad/issues"
+  },
+  "homepage": "https://github.com/MatthijsMud/PhaserGamepad#readme"
+}
