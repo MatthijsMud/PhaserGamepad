@@ -1,0 +1,21 @@
+{
+	"root": true,
+	"extends": [
+		"eslint:recommended"
+	],
+	
+	"globals": {
+		"__DEVELOPMENT__": false,
+		"__PROJECT_NAME__": false,
+		"__VERSION__": false
+	},
+	
+	"env": {
+		"browser": true,
+		"amd": true
+	},
+	
+	"rules": {
+		
+	}
+}

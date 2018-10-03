@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MatthijsMud/PhaserGamepad/issues"
   },
-  "homepage": "https://github.com/MatthijsMud/PhaserGamepad#readme"
+  "homepage": "https://github.com/MatthijsMud/PhaserGamepad#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1"
+  }
 }
